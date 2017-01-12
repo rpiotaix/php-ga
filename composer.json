@@ -1,0 +1,19 @@
+{
+  "name": "thomasbachem/php-ga",
+  "description": "Server-Side Google Analytics Client",
+  "type": "library",
+  "license": "LGPL-3.0",
+  "keywords": ["analytics", "Google"],
+  "authors": [
+    {
+      "name": "Thomas Bachem",
+      "email": "mail@thomasbachem.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "UnitedPrototype": "src"
+    }
+  },
+  "require": {}
+}
